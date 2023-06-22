@@ -1,0 +1,1 @@
+pyinstaller src/main.py --onefile --windowed --icon="res/icon.ico"

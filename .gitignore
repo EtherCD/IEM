@@ -1,0 +1,5 @@
+venv
+dist
+main.spec
+.idea
+__pycache__
