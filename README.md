@@ -1,6 +1,5 @@
-# Inverter Energy Monitor
-
-<div>
+<div align="center">
+    <h1>Inverter Energy Monitor</h1>
     <img src="./git/screen.png" alt="">
 </div>
 
